@@ -36,3 +36,16 @@ body{
 .navbar-dark{
   background-color: purple;
 }
+.card-header{
+  background-color: #ffcc00;
+  color: white;
+  font-size: 180%;
+
+}
+.tab-content{
+
+  border-left : 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+
+}
