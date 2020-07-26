@@ -13,14 +13,15 @@
   margin:0px auto;
   padding = 20px 0px 20px 0px;
 
-  background-color:lightpink;
+  background-color:lightyellow;
 }
 .jumbotron
 {
   padding = 70px 30px 70px 30px;
   margin: 0px auto;
-  background-color: lightblue;
-  color : red;
+  background-color: red;
+  color : yellow;
+  font-size: 120%
 
 }
 .address{
